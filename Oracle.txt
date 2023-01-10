@@ -1,0 +1,5 @@
+Usename : System
+password: Created while downloadin XE
+Hostname : Localhost
+1521
+SID XE
